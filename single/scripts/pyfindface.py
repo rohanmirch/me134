@@ -90,8 +90,6 @@ if __name__ == "__main__":
 
     t      = 0.0
     cmdpos = [msg.position[0], msg.position[1]]
-    print(cmdpos)
-    print("penis")
     cmdvel = [0.0, 0.0]
     cmdtor = [0.0, 0.0]
 
